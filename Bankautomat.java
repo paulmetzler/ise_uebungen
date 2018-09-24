@@ -21,7 +21,7 @@ public class Bankautomat {
 		}
 		//Ende der Funktion
 		else {
-			System.out.println("Einzahlungen " + schritt + " - Summe: " + summe + " - Durchschnitt: " + schnitt);
+			System.out.println("Einzahlungen: " + schritt + " -- Summe: " + summe + " -- Durchschnitt: " + schnitt);
 		}
 	}
 	//Einzahlungsvorgang
